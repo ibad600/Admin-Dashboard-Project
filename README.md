@@ -2,7 +2,7 @@
 
 #Links
 - *GitHub Repository:* https://github.com/ibad600/Admin-Dashboard-Project
-- *Live Demo:* admin-dashboard-project-phi.vercel.app
+- *Live Demo:*  https://admin-dashboard-project-phi.vercel.app
 
 A responsive **Product Admin Dashboard** built with **Next.js**, **React**, **Tailwind CSS**, and **Axios**, powered by the [DummyJSON API](https://dummyjson.com).
 
